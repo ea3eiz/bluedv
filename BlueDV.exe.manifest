@@ -4,7 +4,7 @@
   <description asmv2:iconFile="web_hi_res_512.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="BlueDV" version="1.0.0.9352" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="BlueDV" version="1.0.0.9318" language="neutral" processorArchitecture="msil" />
     <commandLine file="BlueDV.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,26 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BlueDV.exe" size="8806920">
-      <assemblyIdentity name="BlueDV" version="1.0.0.9352" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BlueDV.exe" size="7061000">
+      <assemblyIdentity name="BlueDV" version="1.0.0.9318" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>alIu1mpLurYqbmXwlMTx7ZROv5UY9tY9+mfACw1Miyc=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\BlueDV.resources.dll" size="1661440">
-      <assemblyIdentity name="BlueDV.resources" version="1.0.0.9352" language="en" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OBy1jj8X2ajReBMqNPB/8ZkJFsubUPiPpXJM33oRnLs=</dsig:DigestValue>
+        <dsig:DigestValue>OkEdJMqfSO18l4VK2//owdA2pGSmbm16eiou7SpoQXc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -102,13 +90,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="BlueDV.exe.config" size="4346">
+  <file name="BlueDV.exe.config" size="3893">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>OyhpZT+aPHa+CM/bGeusXOe8XA3Ob987+L5zQWvM100=</dsig:DigestValue>
+      <dsig:DigestValue>c1Ii/r0w9p9UURM10pPyXmur1UR023X9t7PvjVaJDRc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="web_hi_res_512.ico" size="1644118">

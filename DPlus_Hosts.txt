@@ -1,5 +1,5 @@
 # DPlus_Hosts.txt
-# NO9S 12/19/2016
+# NO9S 01/27/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -80,6 +80,7 @@ REF076 ref076.dstargateway.org
 REF077 ref077.dstargateway.org
 REF078 ref078.dstargateway.org
 REF079 ref079.dstargateway.org
+REF080 82.223.13.53
 REF081 xlx081jr3vh.jpn.ph
 REF086 xlx086.ddns.net
 REF089 194.109.192.236
@@ -100,6 +101,7 @@ REF311 78.47.206.12
 REF313 52.35.167.210
 REF317 107.170.195.225
 REF370 188.213.168.24
+REF400 c4fm.ysfreflector.de
 REF444 85.214.69.145
 REF450 ref450.xlxreflector.org
 REF456 51.254.38.226
@@ -119,7 +121,7 @@ REF810 ref810.xlxreflector.org
 REF850 88.198.94.77
 REF888 37.187.0.15
 REF906 185.50.196.134
-REF909 216.86.147.198
+REF909 xlx909.ealink.org
 REF911 5.196.73.89
 REF929 104.167.99.218
 REF950 158.64.26.134
@@ -130,6 +132,7 @@ AA3E 70.91.6.205
 AC6SO 99.189.117.207
 AF2A 24.97.114.22
 AJ5Q 24.117.111.234
+BX3AH bx3ah.ddns.net
 DB0DJ 217.92.28.60
 DM0WM 193.196.117.161
 EA3RCC 80.28.236.210

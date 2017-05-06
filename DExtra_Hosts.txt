@@ -1,5 +1,5 @@
 # DExtra_Hosts.txt
-# NO9S 12/18/2016
+# NO9S 01/22/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -70,7 +70,7 @@ XRF081 xlx081jr3vh.jpn.ph
 XRF082	xlx082.pungsan.com
 XRF083	xlx083.pungsan.com
 XRF084	xrf084.fabbroni.eu
-XRF085	jr1ofp.dip.jp 
+XRF085	jr1ofp.dip.jp
 XRF086 xlx086.ddns.net
 XRF088	xrf088.pa4tw.nl
 XRF089	194.109.192.236
@@ -83,6 +83,7 @@ XRF101	xrf101.xreflector.org
 XRF102	xrf102.xreflector.org
 XRF103	xrf103.xreflector.org
 XRF104	xrf104.xreflector.org
+XRF105 xrf105.xlxreflector.org
 XRF112	112.xreflector.es
 XRF117	xrf117.dyndns.org
 XRF119	149.154.158.170 
@@ -96,7 +97,6 @@ XRF145	178.59.21.32
 XRF147 46.41.1.127
 XRF168	xrf168.duckdns.org
 XRF170 dvham.mooo.com
-XRF185	xrf185.dyndns.org
 XRF200	xrf200.theapplecore.me
 XRF202	81.4.107.250
 XRF204	212.114.109.74
@@ -111,7 +111,7 @@ XRF250 xrf250.dstar.su
 XRF264	52.2.131.118
 XRF270	158.64.26.132
 XRF300	xrf300.xreflector.org
-XRF310	xrf310,xrefl.net
+XRF310	xrf310.xrefl.net
 XRF311	78.47.206.12
 XRF313	52.35.167.210
 XRF314	162.248.10.154
@@ -122,6 +122,7 @@ XRF333 194.116.29.73
 XRF334 xlx.alabamalink.info
 XRF359	217.174.155.51
 XRF370	188.213.168.24
+XRF400 c4fm.ysfreflector.de
 XRF404	163.172.140.188
 XRF444	85.214.69.145
 XRF450	xrf450.xreflector.org
@@ -158,7 +159,7 @@ XRF897	92.222.23.124
 XRF900	91.134.142.18
 XRF902	104.233.76.150
 XRF905 199.212.121.20
-XRF909	216.86.147.198
+XRF909	xlx909.ealink.org 
 XRF911	217.196.138.39
 XRF929	104.167.99.218
 XRF930	95.234.254.81

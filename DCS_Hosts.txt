@@ -1,5 +1,5 @@
 # DCS_Hosts.txt
-# NO9S 12/18/2016
+# NO9S 01/22/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -48,7 +48,6 @@ DCS072	xrf072.dv.or.kr
 DCS075	86.105.55.51
 DCS076	203.137.116.117
 DCS077	5.249.151.111
-DCS080	112.71.231.201
 DCS081	xlx081jr3vh.jpn.ph
 DCS082	xlx082.pungsan.com
 DCS083	xlx083.pungsan.com
@@ -62,6 +61,7 @@ DCS101	dcs101.xreflector.org
 DCS102	dcs102.xreflector.org
 DCS103	dcs103.xreflector.org
 DCS104	dcs104.xreflector.org
+DCS105	dcs105.xlxreflector.org
 DCS125	78.131.97.211
 DCS132	193.106.216.154
 DCS145	178.59.21.32
@@ -87,6 +87,7 @@ DCS317	107.170.195.225
 DCS357	162.244.28.186
 DCS359	217.174.155.51
 DCS370	188.213.168.24
+DCS400 c4fm.ysfreflector.de
 DCS404	163.172.140.188
 DCS444	85.214.69.145
 DCS450	dcs450.xreflector.org
@@ -118,7 +119,7 @@ DCS888	37.187.0.15
 DCS897	92.222.23.124
 DCS900	91.134.142.18
 DCS902	104.233.76.150
-DCS909	216.86.147.198
+DCS909	xlx909.ealink.org 
 DCS911	217.196.138.39
 DCS929	104.167.99.218
 DCS930	95.234.254.81

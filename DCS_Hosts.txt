@@ -1,12 +1,12 @@
 # DCS_Hosts.txt
-# NO9S 03/30/2017
+# NO9S 01/22/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
 # Some information may have been sourced from. Adrian vk4tux.
 
 DCS000	dcs000.xreflector.org
-DCS001	dcs001.xreflector.net
+DCS001  dcs001.xreflector.net
 DCS002	dcs002.xreflector.net
 DCS003	dcs003.xreflector.net
 DCS004	dcs004.xreflector.net
@@ -52,8 +52,7 @@ DCS081	xlx081jr3vh.jpn.ph
 DCS082	xlx082.pungsan.com
 DCS083	xlx083.pungsan.com
 DCS085	118.152.21.76
-DCS086	xlx086.ddns.net
-DCS088	xrf088.pa4tw.nl
+DCS086 xlx086.ddns.net
 DCS089	194.109.192.236
 DCS091	89.36.219.197
 DCS098	111.168.210.56
@@ -64,19 +63,17 @@ DCS103	dcs103.xreflector.org
 DCS104	dcs104.xreflector.org
 DCS105	dcs105.xlxreflector.org
 DCS125	78.131.97.211
-DCS127 pj2man.hopto.org
 DCS132	193.106.216.154
 DCS145	178.59.21.32
-DCS147	46.41.1.127
-DCS170	dvham.mooo.com 
+DCS147 46.41.1.127
+DCS170 dvham.mooo.com 
 DCS202	81.4.107.250
 DCS204	212.114.109.74
-DCS210	dcs210.xlxreflector.org
+DCS210 dcs210.xreflector.org
 DCS212	52.38.90.188
 DCS214	89.36.214.120
 DCS222	93.189.136.50
 DCS226	216.158.224.28
-DCS230	ref.dstar.cz
 DCS248	104.167.104.233
 DCS264	52.2.131.118
 DCS270	158.64.26.132
@@ -89,9 +86,8 @@ DCS315	104.233.109.56
 DCS317	107.170.195.225
 DCS357	162.244.28.186
 DCS359	217.174.155.51
-DCS365	xrf365.dip.jp
 DCS370	188.213.168.24
-DCS400	c4fm.ysfreflector.de
+DCS400 c4fm.ysfreflector.de
 DCS404	163.172.140.188
 DCS444	85.214.69.145
 DCS450	dcs450.xreflector.org
@@ -100,20 +96,19 @@ DCS518	176.9.1.168
 DCS555	104.167.117.252
 DCS570	104.128.230.153
 DCS573	216.189.148.204
-DCS600	xlx600.dvscotland.net
+DCS600 xlx600.dvscotland.net
 DCS603	24.233.107.8
 DCS610	103.1.213.21
 DCS651	66.240.165.26
 DCS699	82.102.5.239
 DCS700	78.47.222.93
-DCS706	dcs706.iz0rin.it
-DCS708	xrf708.dip.jp
+DCS706	164.132.48.105
 DCS724	191.232.36.180
 DCS737	195.130.75.246
-DCS747	xrf747.de
+DCS747 xrf747.de
 DCS766	201.62.48.61
-DCS773	dcs773.iz0rin.it
-DCS787	xrf787.de
+DCS773	151.80.132.155
+DCS787 xrf787.de
 DCS789	75.144.65.122
 DCS800	52.26.26.195
 DCS810	dcs810.xreflector.org
@@ -129,8 +124,7 @@ DCS911	217.196.138.39
 DCS929	104.167.99.218
 DCS930	95.234.254.81
 DCS950	158.64.26.134
-DCS972	46.121.158.50  
+DCS972 46.121.158.50  
 DCS986	81.89.102.160
-DCS997	xrf997.iw2gob.it
 DCS998	44.140.236.20
 DCS999	88.147.102.200

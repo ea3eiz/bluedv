@@ -1,5 +1,5 @@
 # DPlus_Hosts.txt
-# NO9S 03/30/2017
+# NO9S 01/27/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -80,30 +80,26 @@ REF076 ref076.dstargateway.org
 REF077 ref077.dstargateway.org
 REF078 ref078.dstargateway.org
 REF079 ref079.dstargateway.org
-REF080	ref080.dstargateway.org
+REF080 82.223.13.53
 REF081 xlx081jr3vh.jpn.ph
 REF086 xlx086.ddns.net
-REF088	xrf088.pa4tw.nl
 REF089 194.109.192.236
 REF100 ref100.xlxreflector.org
 REF101 ref101.xlxreflector.org
 REF102 ref102.xlxreflector.org
 REF103 ref103.xlxreflector.org
 REF104 ref104.xlxreflector.org
-REF127	pj2man.hopto.org
 REF132 193.106.216.154
 REF145 178.59.21.32
 REF147 46.41.1.127
 REF170 dvham.mooo.com
 REF210 ref210.xlxreflector.org
-REF230	ref.dstar.cz
 REF264 52.2.131.118
 REF270 158.64.26.132
 REF300 ref300.xlxreflector.org
 REF311 78.47.206.12
 REF313 52.35.167.210
 REF317 107.170.195.225
-XRF365	xrf365.dip.jp
 REF370 188.213.168.24
 REF400 c4fm.ysfreflector.de
 REF444 85.214.69.145
@@ -116,11 +112,9 @@ REF610 103.1.213.18
 REF651 66.240.165.26
 REF699 82.102.5.239
 REF700 78.47.222.93
-REF706 ref703.iz0rin.it
-REF708	xrf708.dip.jp
+REF706 164.132.48.105
 REF724 191.232.36.180
 REF747 xrf747.de
-REF773 ref773.iz0rin.it
 REF787 xrf787.de
 REF789 75.144.65.122
 REF810 ref810.xlxreflector.org
@@ -132,7 +126,6 @@ REF911 5.196.73.89
 REF929 104.167.99.218
 REF950 158.64.26.134
 REF988 86.105.55.51
-REF997	xrf997.iw2gob.it
 REF999 149.71.150.55
 AA1HD 173.166.94.241
 AA3E 70.91.6.205
@@ -301,7 +294,6 @@ KW6HRO 67.207.216.56
 LU5FB 179.60.235.222
 MB6DE 212.56.120.125
 MB6JD 212.56.100.200
-MB6IRD	mb6ird.dyndns.org
 N0EO 64.61.235.69
 N1HIT 50.189.3.212
 N4ARG 71.41.121.229

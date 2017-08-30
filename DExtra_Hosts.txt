@@ -116,6 +116,7 @@ XRF222	93.189.136.50
 XRF223 k0pra.ddns.net
 XRF226	xrf.226.ro
 XRF230	ref.dstar.cz
+XRF241  151.80.158.227
 XRF246	xlx.mkagawa.com
 XRF248	104.167.104.233
 XRF250 xrf250.dstar.su

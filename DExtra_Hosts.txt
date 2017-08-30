@@ -1,5 +1,5 @@
 # DExtra_Hosts.txt
-# NO9S 03/30/2017
+# NO9S 08/19/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -12,9 +12,9 @@ XRF003	xrf003.iw0red.it
 XRF004	44.103.34.3
 XRF005	ve3tnk.homelinux.net 
 XRF006	xrf006.xrefl.net
-XRF007	xrf007.ea5gf.es
+XRF007	82.223.18.138
 XRF008	95.110.231.219 
-XRF009	141.22.15.29 
+XRF009	www.hamtalk.net 
 XRF010	162.243.74.151
 XRF011	87.106.3.249 
 XRF012	64.137.233.5
@@ -24,7 +24,7 @@ XRF015	xrf015.theapplecore.me
 XRF017	87.253.159.114 
 XRF018	199.167.129.166 
 XRF019	xlx019.ok2it.com 
-XRF020	67.210.212.144 
+XRF020	xlx020.iz7auh.net 
 XRF021	44.103.32.250
 XRF022	xrf022.tms-it.net
 XRF023	141.75.245.225 
@@ -50,7 +50,9 @@ XRF047 xlx047.ddns.net
 XRF048	xrf048.n5uxt.org
 XRF052 je7zbu.dip.jp
 XRF054	52.86.180.251
-XRF055	95.110.229.195 
+XRF055	52.80.4.154 
+XRF057	xlx057.ddns.net
+XRF058	xrf058.dip.jp
 XRF062	70.88.145.163
 XRF063	162.248.141.148
 XRF064 xrf064.owari.biz
@@ -71,7 +73,7 @@ XRF081 xlx081jr3vh.jpn.ph
 XRF082	xlx082.pungsan.com
 XRF083	xlx083.pungsan.com
 XRF084	xrf084.fabbroni.eu
-XRF085	jr1ofp.dip.jp
+XRF085	xrf085.dip.jp
 XRF086 xlx086.ddns.net
 XRF088	xrf088.pa4tw.nl
 XRF089	194.109.192.236
@@ -79,7 +81,7 @@ XRF090	46.37.185.184
 XRF091	89.36.219.197
 XRF095	xrf095.dip.jp
 XRF098 xrf098.dip.jp
-XRF099	76.71.89.114 
+XRF099	xlx099.iz7auh.net
 XRF100	xrf100.xreflector.org
 XRF101	xrf101.xreflector.org
 XRF102	xrf102.xreflector.org
@@ -88,22 +90,25 @@ XRF104	xrf104.xreflector.org
 XRF105 xrf105.xlxreflector.org
 XRF111	xrf111.dip.jp
 XRF112	112.xreflector.es
-XRF117	xrf117.dyndns.org
+XRF113	xlx113.homepc.it
+XRF115	reflector-xlx.hb9vd.ch
+XRF117	xref117.dyndns.org
 XRF119	149.154.158.170 
 XRF122	xrf.vpn4ham.com
 XRF123	213.126.90.100 
+XRF124	xrf124.xreflector-jp.org
 XRF125	78.131.97.211
 XRF127	pj2man.hopto.org
 XRF132	193.106.216.154
 XRF132	193.106.216.154
 XRF133	xrf133.dvscotland.net
-XRF145	178.59.21.32
+XRF145	178.59.23.138
 XRF147 46.41.1.127
 XRF168	xrf168.duckdns.org
 XRF170 dvham.mooo.com
 XRF200	xrf200.theapplecore.me
 XRF202	81.4.107.250
-XRF204	212.114.109.74
+XRF204	xlx204.ph0dv.nl
 XRF210	xrf210.xreflector.org
 XRF212	52.38.90.188
 XRF214	89.36.214.120
@@ -118,6 +123,7 @@ XRF264	52.2.131.118
 XRF270	158.64.26.132
 XRF295	xrf295.dyndns.org
 XRF300	xrf300.xreflector.org
+XRF302	xlx302.hopto.org
 XRF310	xrf310.xrefl.net
 XRF311	78.47.206.12
 XRF313	52.35.167.210
@@ -127,30 +133,41 @@ XRF317	107.170.195.225
 XRF357	162.244.28.186
 XRF333 194.116.29.73
 XRF334 xlx.alabamalink.info
+XRF339	xlx339.avarc.ca
 XRF359	217.174.155.51
 XRF365	xrf365.dip.jp
 XRF370	188.213.168.24
 XRF373	xrf373.dip.jp
+XRF382	xrf382.dip.jp
 XRF398	xrf398.dyndns.org
 XRF400 c4fm.ysfreflector.de
-XRF404	163.172.140.188
+XRF404	xlx.bendiksverden.net
+XRF433	xrf433.de
+XRF440	xrf440.e-kyushu.net
+XRF441	xrf441.xreflector-jp.org
 XRF444	85.214.69.145
 XRF450	xrf450.xreflector.org
 XRF456	51.254.38.226
 XRF515	shounandstar.dip.jp
 XRF518	176.9.1.168
+XRF519	xrf519.ve3zin.com
+XRF538	xrf538.dip.jp
 XRF555	104.167.117.252
-XLX569 xlxreflector.jpn.ph
+XRF569 xlxreflector.jpn.ph
 XRF570	104.128.230.153
 XRF573	216.189.148.204
 XRF600 xlx600.dvscotland.net
 XRF603	24.233.107.8
 XRF610	103.1.213.21
+XRF626	626.nz
 XRF651	66.240.165.26
 XRF699	82.102.5.239
 XRF700	78.47.222.93
 XRF706	xrf706.iz0rin.it
-XRF708	xrf708.dip.jp
+XRF707	xlx.pa7lim.nl
+XRF708	xrf708.xreflector-jp.org
+XRF709	xlx.dvmega.co.uk
+XRF712	xrf712.ddo.jp
 XRF714 xlx714.ea3hkb.com
 XRF720 xrf720.freestar.us
 XRF724	191.232.36.180
@@ -161,11 +178,14 @@ XRF748	xrf748.dyndns.org
 XRF766	201.62.48.61
 XRF767 xrf767.de
 XRF773	xrf773.iz0rin.it
+XRF781	xrf781.dip.jp
 XRF789	75.144.65.122
 XRF800	52.26.26.195
 XRF810	xrf810.xreflector.org
+XRF812	xrf812.dip.jp
 XRF828	5.1.85.55
 XRF850	88.198.94.77
+XRF870	xrf870.ddns.net
 XRF886 xlx886.metropit.net
 XRF787 xrf787.de
 XRF888	37.187.0.15
@@ -456,7 +476,7 @@ GB7DA	82.43.115.234
 GB7DX	81.158.29.106 
 GB7FK	217.155.103.254 
 GB7GC	86.22.29.217 
-GB7HE	91.125.112.225 
+GB7HE	gb7he.ddns.net
 GB7IC	62.49.140.9 
 IR4UAJ	79.42.48.141 
 IR4UBH	79.12.240.135 
@@ -579,6 +599,7 @@ JQ1ZKG	14.3.185.133
 JQ1ZLR	157.107.146.75 
 JQ1ZRY	221.27.66.171 
 JQ6YZ	153.176.6.188 
+K4RPT	163.118.20.25
 K5PSA	50.27.134.38 
 K7SEX	71.231.25.135 
 KB3KWD	208.44.56.43 

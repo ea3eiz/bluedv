@@ -1,5 +1,5 @@
 # DCS_Hosts.txt
-# NO9S 08/17/2017
+# NO9S 08/17/2017 On Cocoa Server
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information

@@ -1,5 +1,5 @@
 # DPlus_Hosts.txt
-# NO9S 09/20/2017
+# NO9S 12/2/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -81,8 +81,9 @@ REF077 ref077.dstargateway.org
 REF078 ref078.dstargateway.org
 REF079 ref079.dstargateway.org
 REF080	ref080.dstargateway.org
-REF085	ref085.dstargateway.org
 REF081 ref081.dstargateway.org
+REF084	ref084.dstargateway.org
+REF085	ref085.dstargateway.org
 REF086 xlx086.ddns.net
 REF088	xrf088.pa4tw.nl
 REF089 194.109.192.236
@@ -98,10 +99,10 @@ REF147 46.41.1.127
 REF170 dvham.mooo.com
 REF204	xlx204.ph0dv.nl
 REF210 ref210.xlxreflector.org
+REF229	dstar.hamnet.xyz
 REF230	ref.dstar.cz
 REF264 52.2.131.118
 REF270 158.64.26.132
-REF300 ref300.xlxreflector.org
 REF311 78.47.206.12
 REF313 52.35.167.210
 REF317 107.170.195.225
@@ -112,6 +113,7 @@ REF404	xlx.bendiksverden.net
 REF444 85.214.69.145
 REF450 ref450.xlxreflector.org
 REF456 51.254.38.226
+REF508	185.188.4.15
 REF518 176.9.1.168
 REF519	xrf519.ve3zin.com
 REF570 104.128.230.153
@@ -125,13 +127,13 @@ REF706 ref703.iz0rin.it
 REF707	xlx.pa7lim.nl
 REF708	xrf708.dip.jp
 REF709	xlx.dvmega.co.uk
-REF724 191.232.36.180
+REF724 xlx.dvbrazil.com.br
 REF747 xrf747.de
 REF773 ref773.iz0rin.it
 REF787 xrf787.de
-REF789 75.144.65.122
 REF810 ref810.xlxreflector.org
 REF850 88.198.94.77
+REF859	xlx859.ke0lmx.net
 REF870	xrf870.ddns.net
 REF888 37.187.0.15
 REF906 185.50.196.134
@@ -140,6 +142,7 @@ REF911 5.196.73.89
 REF929 104.167.99.218
 REF950 158.64.26.134
 REF988 86.105.55.51
+REF989	xlx989.duckdns.org
 REF997	xrf997.iw2gob.it
 REF999 149.71.150.55
 AA1HD 173.166.94.241
@@ -203,6 +206,7 @@ K2PUT 50.198.98.177
 K3PDR 50.199.92.162
 K4DSO 99.28.20.153
 K4GAR 162.220.84.17
+K4RPT 163.118.20.25
 K5PTR 12.39.103.30
 K5RKN 72.149.233.199
 K5TAR 67.184.197.122
@@ -398,7 +402,7 @@ W3OK 66.152.146.25
 W3PHB 8.225.215.238
 W3PRO 72.84.128.3
 W4AEC 207.157.8.54
-W4AES 208.111.3.125
+W4AES w4aes.dstargateway.org
 W4AKH 167.88.213.36
 W4AP 97.82.17.237
 W4DOC 172.0.189.177
@@ -463,7 +467,7 @@ WB8THD 207.58.232.90
 WB9FDZ 216.250.7.137
 WC3PS 75.149.2.26
 WD4STR 24.221.160.251
-WD4WDW 216.53.254.105
+WD4WDW wd4wdw.dstargateway.org
 WD8MKG 207.74.55.70
 WL7CWI 216.152.177.254
 WR4DH 24.178.142.254

@@ -1,5 +1,5 @@
 # DPlus_Hosts.txt
-# NO9S 12/2/2017
+# NO9S 10/18/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -93,13 +93,13 @@ REF102 ref102.xlxreflector.org
 REF103 ref103.xlxreflector.org
 REF104 ref104.xlxreflector.org
 REF127	pj2man.hopto.org
+REF129	guwgw.cir-ins.com
 REF132 193.106.216.154
 REF145 178.59.23.138
 REF147 46.41.1.127
 REF170 dvham.mooo.com
 REF204	xlx204.ph0dv.nl
 REF210 ref210.xlxreflector.org
-REF229	dstar.hamnet.xyz
 REF230	ref.dstar.cz
 REF264 52.2.131.118
 REF270 158.64.26.132
@@ -131,9 +131,9 @@ REF724 xlx.dvbrazil.com.br
 REF747 xrf747.de
 REF773 ref773.iz0rin.it
 REF787 xrf787.de
+REF789 75.144.65.122
 REF810 ref810.xlxreflector.org
 REF850 88.198.94.77
-REF859	xlx859.ke0lmx.net
 REF870	xrf870.ddns.net
 REF888 37.187.0.15
 REF906 185.50.196.134

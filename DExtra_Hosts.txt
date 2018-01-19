@@ -1,5 +1,5 @@
 # DExtra_Hosts.txt
-# NO9S 12/2/2017
+# NO9S 10/14/2017
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -68,7 +68,6 @@ XRF075	86.105.55.51
 XRF076	xrf076.xreflector-jp.org
 XRF077	5.249.151.111
 XRF078	xrf078.dip.jp
-XRF079	xrf079.dvham.com
 XRF080 jr3vh.dip.jp
 XRF081 xlx081jr3vh.jpn.ph
 XRF082	xlx082.pungsan.com
@@ -89,7 +88,7 @@ XRF102	xrf102.xreflector.org
 XRF103	xrf103.xreflector.org
 XRF104	xrf104.xreflector.org
 XRF105 xrf105.xlxreflector.org
-XRF111	xrf111.xreflector-jp.org
+XRF111	xrf111.dip.jp
 XRF112	112.xreflector.es
 XRF113	xlx113.homepc.it
 XRF115	reflector-xlx.hb9vd.ch
@@ -99,7 +98,6 @@ XRF122	xrf.vpn4ham.com
 XRF123	213.126.90.100 
 XRF124	xrf124.xreflector-jp.org
 XRF125	78.131.97.211
-XRF129 guwgw.cir-ins.com
 XRF127	pj2man.hopto.org
 XRF132	193.106.216.154
 XRF132	193.106.216.154
@@ -108,7 +106,6 @@ XRF145	178.59.23.138
 XRF147 46.41.1.127
 XRF168	xrf168.duckdns.org
 XRF170 dvham.mooo.com
-XRF171	xrf171.dvham.com
 XRF200	xrf200.theapplecore.me
 XRF202	81.4.107.250
 XRF204	xlx204.ph0dv.nl
@@ -117,7 +114,6 @@ XRF212	52.38.90.188
 XRF214	89.36.214.120
 XRF222	93.189.136.50
 XRF224	xrf224.xreflector-jp.org
-XRF229	dstar.hamnet.xyz
 XRF223 208.73.201.157
 XRF226	xrf.226.ro
 XRF230	ref.dstar.cz
@@ -163,18 +159,14 @@ XRF515	shounandstar.dip.jp
 XRF518	176.9.1.168
 XRF519	xrf519.ve3zin.com
 XRF538	xrf538.dip.jp
-XRF544	xlx544.ddns.net
-XRF550	550.xreflector.es
 XRF555	104.167.117.252
 XRF569 xlxreflector.jpn.ph
 XRF570	104.128.230.153
 XRF573	216.189.148.204
-XRF595	hamradio.dip.jp
 XRF600 xlx600.dvscotland.net
 XRF603	24.233.107.8
 XRF610	103.1.213.21
 XRF626	626.nz
-XRF634	xrf634.dip.jp
 XRF651	66.240.165.26
 XRF699	82.102.5.239
 XRF700	78.47.222.93
@@ -193,7 +185,6 @@ XRF748	xrf748.dyndns.org
 XRF766	201.62.48.61
 XRF767 xrf767.de
 XRF773	xrf773.iz0rin.it
-XRF776	xlx776.tokyo
 XRF781	xrf781.dip.jp
 XRF789	75.144.65.122
 XRF800	52.26.26.195
@@ -201,7 +192,6 @@ XRF810	xrf810.xreflector.org
 XRF812	xrf812.dip.jp
 XRF828	5.1.85.55
 XRF850	88.198.94.77
-XRF859	xlx859.ke0lmx.net
 XRF870	xrf870.ddns.net
 XRF886 xlx886.metropit.net
 XRF787 xrf787.de

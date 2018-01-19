@@ -1,5 +1,5 @@
 # DCS_Hosts.txt
-# NO9S 12/2/2017 On Cocoa Server
+# NO9S 10/12/2017 On Cocoa Server
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -78,7 +78,6 @@ DCS212	52.38.90.188
 DCS214	89.36.214.120
 DCS222	93.189.136.50
 DCS226	216.158.224.28
-DCS229	dstar.hamnet.xyz
 DCS230	ref.dstar.cz
 DCS248	104.167.104.233
 DCS264	52.2.131.118
@@ -123,11 +122,11 @@ DCS747	xrf747.de
 DCS766	201.62.48.61
 DCS773	dcs773.iz0rin.it
 DCS787	xrf787.de
+DCS789	75.144.65.122
 DCS800	52.26.26.195
 DCS810	dcs810.xreflector.org
 DCS828	5.1.85.55
 DCS850	88.198.94.77
-DCS859	xlx859.ke0lmx.net
 DCS870	xrf870.ddns.net
 DCS886	118.163.103.179
 DCS888	37.187.0.15

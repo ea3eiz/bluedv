@@ -1,5 +1,5 @@
 # DPlus_Hosts.txt
-# NO9S 10/18/2017
+# NO9S 02/18/2018
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -93,24 +93,25 @@ REF102 ref102.xlxreflector.org
 REF103 ref103.xlxreflector.org
 REF104 ref104.xlxreflector.org
 REF127	pj2man.hopto.org
-REF129	guwgw.cir-ins.com
 REF132 193.106.216.154
+REF134	159.89.176.86	
 REF145 178.59.23.138
 REF147 46.41.1.127
 REF170 dvham.mooo.com
 REF204	xlx204.ph0dv.nl
 REF210 ref210.xlxreflector.org
+REF229	dstar.hamnet.xyz
 REF230	ref.dstar.cz
 REF264 52.2.131.118
 REF270 158.64.26.132
 REF311 78.47.206.12
-REF313 52.35.167.210
+REF313 xlx313.openstd.net
 REF317 107.170.195.225
 XRF365	xrf365.dip.jp
 REF370 188.213.168.24
 REF400 c4fm.ysfreflector.de
 REF404	xlx.bendiksverden.net
-REF444 85.214.69.145
+REF444 ref444.pa3dfn.nl
 REF450 ref450.xlxreflector.org
 REF456 51.254.38.226
 REF508	185.188.4.15
@@ -131,14 +132,15 @@ REF724 xlx.dvbrazil.com.br
 REF747 xrf747.de
 REF773 ref773.iz0rin.it
 REF787 xrf787.de
-REF789 75.144.65.122
 REF810 ref810.xlxreflector.org
 REF850 88.198.94.77
+REF859	xlx859.ke0lmx.net
 REF870	xrf870.ddns.net
 REF888 37.187.0.15
 REF906 185.50.196.134
 REF909 xlx909.ealink.org
 REF911 5.196.73.89
+REF925	xlx925.hopto.org
 REF929 104.167.99.218
 REF950 158.64.26.134
 REF988 86.105.55.51
@@ -150,7 +152,8 @@ AA3E 70.91.6.205
 AC6SO 99.189.117.207
 AF2A 24.97.114.22
 AJ5Q 24.117.111.234
-BX3AH bx3ah.ddns.net
+BX3AH bx3ah.dstargateway.org
+BX4ACB	bx4acb.dstargateway.org
 DB0DJ 217.92.28.60
 DM0WM 193.196.117.161
 EA3RCC 80.28.236.210

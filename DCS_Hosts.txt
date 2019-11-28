@@ -1,5 +1,7 @@
 # DCS_Hosts.txt
-# NO9S 01/18/2018 On Cocoa Server
+# NO9S 11/01/2019 Now on Atlanta Server
+# eMail changes to no9s@xlxreflector.us 
+# any emailed to any of my other address will be ignored.
 # The format of this file is the name of the reflector followed by its
 # IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
 # when reporting changes to me add this information
@@ -26,7 +28,7 @@ DCS017	dcs017.xreflector.net
 DCS018	dcs018.xreflector.net
 DCS019	dcs019.xreflector.net
 DCS020	dcs020.xreflector.net
-DCS021	dcs021.xreflector.net
+DCS021	44.103.34.21
 DCS022	dcs022.xreflector.net
 DCS023	dcs023.xreflector.net
 DCS024	dcs024.xreflector.net
@@ -35,10 +37,14 @@ DCS027	dcs027.xreflector.net
 DCS028	dcs028.xreflector.net
 DCS032	158.64.26.140
 DCS033	dcs033.xreflector.net
+DCS034	dcs034.xreflector.net
 DCS035	45.79.94.184
+DCS039	collector.webandcloud.net
 DCS040	109.71.45.29
 DCS041	xrf041.bbhill.net
+DCS044	xlx044.va3uv.com
 DCS047	222.159.240.243
+DCS049	xlxdni.digitalhamireland.com
 DCS052	220.221.212.131
 DCS054	52.86.180.251
 DCS059	18.219.32.21
@@ -46,7 +52,7 @@ DCS062	70.88.145.163
 DCS064	202.241.175.133
 DCS068	92.222.145.202
 DCS071	xrf071.dv.or.kr
-DCS072	xrf072.dv.or.kr
+DCS072	75.60.237.17
 DCS075	86.105.55.51
 DCS076	203.137.116.117
 DCS077	5.249.151.111
@@ -61,17 +67,20 @@ DCS091	89.36.219.197
 DCS098	111.168.210.56
 DCS100	dcs100.xlxreflector.org L
 DCS101	dcs101.xreflector.org L
-DCS102	dcs102.xreflector.org L
-DCS103	dcs103.xreflector.org L
+DCS102	dcs102.xlxreflector.org
+DCS103	dcs103.xlxreflector.org
 DCS104	dcs104.xreflector.org L
-DCS105	dcs105.xlxreflector.org
+DCS105	xrf105.fr
 DCS115	reflector-xlx.hb9vd.ch
-DCS125	78.131.97.211
+DCS121	xlx.kc2idb.net
+DCS125	xlx125.dyndns.hu
 DCS127 pj2man.hopto.org
 DCS132	193.106.216.154
 DCS134	159.89.176.86	
+DCS140	xlx140.nix.pt
 DCS145	178.59.23.138
 DCS147	46.41.1.127
+DCS160	xrf160.xreflector-jp.org
 DCS170	dvham.mooo.com 
 DCS202	81.4.107.250
 DCS204	xlx204.ph0dv.nl
@@ -82,40 +91,65 @@ DCS222	93.189.136.50
 DCS226	216.158.224.28
 DCS229	dstar.hamnet.xyz
 DCS230	ref.dstar.cz
+DCS241	xlxrem.xlxreflector.es
 DCS248	104.167.104.233
+DCS258	75.60.237.19
+DCS262	xlx.prgm.org
 DCS264	52.2.131.118
+DCS268	xlx268.from-ct.com
 DCS270	158.64.26.132
-DCS300	dcs300.xreflector.org L
+DCS290	xlx.digitalsicilia.it
+DCS295	xlx295.dyndns.org
+DCS300	dcs300.xlxreflector.org L
+DCS307	xlx307.ddns.net
 DCS310	162.244.25.94
 DCS311	78.47.206.12
+DCS312	xlx.dmr-marc.net
 DCS313	xlx313.openstd.net
 DCS314	162.248.10.154
 DCS315 65.101.7.50
 DCS317	107.170.195.225
+DCS329	xrf329.aa0.netvolante.jp
 DCS357	162.244.28.186
-DCS359	217.174.155.51
+DCS358	xlx358.ddns.net
+DCS359	xlx359.ddns.net
+DCS360	xrf360.xreflector-jp.org
 DCS365	xrf365.dip.jp
 DCS370	188.213.168.24
+DCS371	xlx371.selfip.com
+DCS389	xlxdmr.duckdns.org
 DCS400	c4fm.ysfreflector.de
 DCS404	xlx.bendiksverden.net
+DCS410	xrf410.n5amd.com
+DCS416 freestar.homelinux.net
+DCS420	xlx.420reflector.net
+DCS435	veb986.mydns.jp
 DCS444	xlx444.pa3dfn.nl
 DCS450	dcs450.xreflector.org L
-DCS456	51.254.38.226
+DCS456	xrf456.de
 DCS470 104.49.29.243
-DCS502	74.208.88.137
+DCS477	xlx.hubnetwork.uk
+DCS501	reflector.tomasone.com
+DCS502	xlx502.xlx.ar-dns.net
 DCS508	185.188.4.15
+DCS515	xrf515.xreflector-jp.org
 DCS518	176.9.1.168
 DCS519	xrf519.ve3zin.com
+DCS520	xlx.dtdxa.com
+DCS522	xlx.lucifernet.com
+DCS544	xrf544.xreflector-jp.org
 DCS555	104.167.117.252
 DCS570	104.128.230.153
 DCS573	216.189.148.204
 DCS600	xlx600.dvscotland.net
 DCS603	24.233.107.8
+DCS606	xrf606.org.uk
 DCS610	103.1.213.21
 DCS626	626.nz
 DCS651	66.240.165.26
 DCS699	82.102.5.239
 DCS700	78.47.222.93
+DCS704	xrf704.xreflector-jp.org
 DCS706	dcs706.iz0rin.it
 DCS707	xlx.pa7lim.nl
 DCS708	xrf708.dip.jp
@@ -123,28 +157,41 @@ DCS709	xlx.dvmega.co.uk
 DCS724	xlx.dvbrazil.com.br
 DCS737	195.130.75.246
 DCS747	xrf747.de
+DCS749	xlx749.duckdns.org
+DCS750	xlx750.nz
 DCS766	201.62.48.61
+DCS770	xrf770.mydns.jp
 DCS773	dcs773.iz0rin.it
-DCS787	xrf787.de
+DCS775	xlx775.duckdns.org
+DCS787	46.41.1.96
 DCS800	52.26.26.195
-DCS810	dcs810.xreflector.org L
+DCS801	oe1phs.ddns.net
+DCS810	dcs810.xlxreflector.org L
+DCS811	dcs811.xlxreflector.org L
 DCS828	5.1.85.55
 DCS850	88.198.94.77
 DCS859	xlx859.ke0lmx.net
+DCS866	xlx866.ddns.net
 DCS870	xrf870.ddns.net
+DCS883	xrf883.mydns.jp
 DCS886	118.163.103.179
 DCS888	37.187.0.15
 DCS897	92.222.23.124
-DCS900	91.134.142.18
+DCS900	xlx900.dyndns.org
 DCS902	104.233.76.150
+DCS904	xrf904.xreflector-jp.org
+DCS935 xlx935.ddns.net
 DCS909	xlx909.ealink.org 
-DCS911	217.196.138.39
+DCS911	xlx.patrweb.com
 DCS925	xlx925.hopto.org
 DCS929	104.167.99.218
-DCS930	95.234.254.81
+DCS930	xreflector.ddns.net
+DCS933	xlx933.dstar-france.fr
 DCS950	158.64.26.134
-DCS972	46.121.158.50  
-DCS986	81.89.102.160
+DCS970	xlx970.onogoro.net
+DCS972	xlx972.ddns.net
+DCS980	xlx980.ddns.net
+DCS986	xlx986.thueringen.link
 DCS989	xlx989.duckdns.org
 DCS997	xrf997.iw2gob.it
 DCS998	44.140.236.20

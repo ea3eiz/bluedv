@@ -4,7 +4,7 @@
   <description asmv2:iconFile="web_hi_res_512.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="BlueDV" version="1.0.0.9352" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="BlueDV" version="1.0.0.9349" language="neutral" processorArchitecture="msil" />
     <commandLine file="BlueDV.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BlueDV.exe" size="8806920">
-      <assemblyIdentity name="BlueDV" version="1.0.0.9352" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BlueDV.exe" size="8806408">
+      <assemblyIdentity name="BlueDV" version="1.0.0.9349" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>alIu1mpLurYqbmXwlMTx7ZROv5UY9tY9+mfACw1Miyc=</dsig:DigestValue>
+        <dsig:DigestValue>y0XnaHYhv1JMy4Z/q51O/xiPTln7Bm7SrESkOO1yaDU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\BlueDV.resources.dll" size="1661440">
-      <assemblyIdentity name="BlueDV.resources" version="1.0.0.9352" language="en" processorArchitecture="msil" />
+      <assemblyIdentity name="BlueDV.resources" version="1.0.0.9349" language="en" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OBy1jj8X2ajReBMqNPB/8ZkJFsubUPiPpXJM33oRnLs=</dsig:DigestValue>
+        <dsig:DigestValue>lZdfXunm8ARpgiK/gy/ziPRK4mx7KjaMTNb9tmrhLW8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

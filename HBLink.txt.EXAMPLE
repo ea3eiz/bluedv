@@ -1,0 +1,7 @@
+#By David PA7LIM - 
+#Rename this file to HBLink.txt
+#Select DMRPLUS in BlueDV setup and choose your HBLink master.
+#Logicalname, ipaddress, password, port
+HBlink1, 123.123.123.123, passw0rd, 62031
+HBlink2, secret.mydomain.nl, passw11rd, 55555
+HBlink3, secret2.mydomain.nl, passw11rd, 55555
